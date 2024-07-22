@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
             const MarkerLayer(
               markers: [
                 Marker(
-                  point: LatLng(51.5, -0.09),
+                  point: LatLng(-6.3799500, 106.8164219),
                   width: 80.0,
                   height: 80.0,
                   child: Icon(
